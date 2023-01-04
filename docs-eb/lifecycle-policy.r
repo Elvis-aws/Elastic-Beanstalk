@@ -4,7 +4,7 @@
 Versions
 ********
     - Each time you upload a new version of your application with the Elastic Beanstalk console or the EB CLI, 
-      Elastic Beanstalk creates an application version.
+      Elastic Beanstalk creates an application version
     - If you dont delete versions that you no longer use, you will eventually reach the application version 
       quota and be unable to create new versions of that application.
 ****************
